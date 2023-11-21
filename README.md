@@ -7,7 +7,7 @@ This mapkit project for SwiftUI
     <img alt="Cocoapods License" src="https://img.shields.io/cocoapods/l/Firebase">
   </a>
   <a href="Platforms">
-    <img src="https://img.shields.io/badge/%20build-iOS%2014%2B-brightgreen?label=platforms" alt="Supported Platforms: iOS 15.0+" />
+    <img src="https://img.shields.io/badge/%20build-iOS%2017%2B-brightgreen?label=platforms" alt="Supported Platforms: iOS 17.0+" />
   </a>
   <a href="framework">
     <img src="https://img.shields.io/badge/%20build-SwiftUI-purple?label=framework" alt="SwiftUI" />
