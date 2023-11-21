@@ -21,9 +21,6 @@ This mapkit project for SwiftUI
   <a href="https://swift.org/package-manager/">
     <img src="https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square" alt="Swift Package Manager compatible">
   </a>
-  <a href="https://img.shields.io/cocoapods/l/:spec">
-    <img alt="Cocoapods License" src="https://img.shields.io/badge/%20build-pods-red?label=plugins">
-  </a>
 </p>
 
 
